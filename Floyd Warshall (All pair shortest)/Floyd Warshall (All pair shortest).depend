@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632669230 source:c:\college\college lab\data structure\floyd warshall (all pair shortest)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
