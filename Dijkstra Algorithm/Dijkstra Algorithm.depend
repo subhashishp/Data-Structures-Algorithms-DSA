@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630723770 source:c:\college\college lab\data structure\dijkstra algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
