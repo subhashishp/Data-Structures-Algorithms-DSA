@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632647985 source:c:\college\college lab\data structure\matrixchainmultiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
