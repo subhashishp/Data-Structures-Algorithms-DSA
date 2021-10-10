@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626877340 source:c:\college\college lab\data structure\binary search tree (bst)\main.c
+	<stdio.h>
+	<stdlib.h>
+
