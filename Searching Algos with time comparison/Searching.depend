@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1626235291 source:c:\college\college lab\data structure\searching\quicksort.c
+
+1626452461 source:c:\college\college lab\data structure\searching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1626450963 source:c:\college\college lab\data structure\searching\file_input.c
+	<stdio.h>
+
+1626242424 source:c:\college\college lab\data structure\searching\file_read.c
+	<stdio.h>
+
