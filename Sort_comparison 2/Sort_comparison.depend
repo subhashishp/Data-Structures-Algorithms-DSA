@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1631171564 source:c:\college\college lab\data structure\searching\file_input.c
+	<stdio.h>
+
+1626242424 source:c:\college\college lab\data structure\searching\file_read.c
+	<stdio.h>
+
+1626235291 source:c:\college\college lab\data structure\searching\quicksort.c
+
+1632646021 source:c:\college\college lab\data structure\sort_comparison\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1631171422 source:c:\college\college lab\data structure\sort_comparison\insertion_sort.c
+
+1632646450 source:c:\college\college lab\data structure\sort_comparison\merge_sort.c
+
+1632645971 source:c:\college\college lab\data structure\sort_comparison\heap_sort.c
+
