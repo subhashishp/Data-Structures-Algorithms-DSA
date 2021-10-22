@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625843845 source:c:\college\college lab\data structure\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
